@@ -1,0 +1,65 @@
+﻿
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Simple Markers</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+      #map {
+               height: 70%;
+        width: 50%;
+      }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+      <form runat="server">
+
+
+          <asp:HiddenField ID="latitude" runat="server" />
+          <asp:HiddenField ID="longitude" runat="server" />
+          <asp:HiddenField ID="des" runat="server" />
+
+          </form>
+
+
+
+    <script>
+
+        
+        function initMap() {
+            var lat = parseFloat(document.getElementById("<%=latitude.ClientID %>").value);
+            var lng = parseFloat(document.getElementById("<%=longitude.ClientID %>").value);
+            
+          var myLatLng = { lat, lng };
+
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 15,
+          center: myLatLng
+        });
+        
+
+        var marker = new google.maps.Marker({
+          position: myLatLng,
+          map: map
+          
+
+        });
+
+      }
+    </script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOKN_aSYiW40FCEVh7AQkgkLGStmyuuTQ&callback=initMap">
+    </script>
+  </body>
+</html>

@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVySLFQQMkU+E+pZH9v90hQAAAAACAAAAAAAQZgAAAAEAACAAAACRJhqs7gq4JcbeMo2eSsdGZZnTV5/ZI7rq1urNF4MkUgAAAAAOgAAAAAIAACAAAABXvOMNkVXgDjqi24X02Zgbe3qQ6sY0MJlqkUmgjJzHIyAAAACGUeAphnEDsy6R4N36S9+FasW/DO+YVbUJx3dLD1B3B0AAAADQB5qw2uJZ92lNsoE8amLEgVIZdi8UsBrQlwb2Cmz4t0YWCio68eO+6Qfp/rLpd+NjPN2H5HJVOn2V7gf53Ma3</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.pakproperty.co/pakproperty.co</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About-Us.aspx">
+      <publishTime>10/22/2018 01:11:26</publishTime>
+    </File>
+    <File Include="AddAdvertisement.aspx">
+      <publishTime>10/04/2018 20:04:41</publishTime>
+    </File>
+    <File Include="AddAgencies.aspx">
+      <publishTime>10/04/2018 19:43:11</publishTime>
+    </File>
+    <File Include="AddBlog.aspx">
+      <publishTime>09/03/2018 21:03:05</publishTime>
+    </File>
+    <File Include="AddContacts.aspx">
+      <publishTime>10/11/2018 00:10:31</publishTime>
+    </File>
+    <File Include="AddDetails.aspx">
+      <publishTime>10/22/2018 18:51:55</publishTime>
+    </File>
+    <File Include="AddFeaturedProperty.aspx">
+      <publishTime>10/04/2018 19:50:30</publishTime>
+    </File>
+    <File Include="AddHappyCustomers.aspx">
+      <publishTime>09/18/2018 21:10:36</publishTime>
+    </File>
+    <File Include="AddPartners.aspx">
+      <publishTime>09/14/2018 16:58:28</publishTime>
+    </File>
+    <File Include="AddPopup.aspx">
+      <publishTime>09/24/2018 20:59:23</publishTime>
+    </File>
+    <File Include="AddProperty.aspx">
+      <publishTime>10/04/2018 18:47:53</publishTime>
+    </File>
+    <File Include="Adds.ashx">
+      <publishTime>09/17/2018 17:05:18</publishTime>
+    </File>
+    <File Include="Advertisement.ashx">
+      <publishTime>09/23/2018 19:18:12</publishTime>
+    </File>
+    <File Include="Agency.ashx">
+      <publishTime>09/18/2018 18:11:58</publishTime>
+    </File>
+    <File Include="AgentDetails.aspx">
+      <publishTime>10/22/2018 01:11:25</publishTime>
+    </File>
+    <File Include="Agents.aspx">
+      <publishTime>10/22/2018 01:11:26</publishTime>
+    </File>
+    <File Include="AP.Master">
+      <publishTime>10/04/2018 20:09:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 15:06:24</publishTime>
+    </File>
+    <File Include="bin/Pagination.dll">
+      <publishTime>01/25/2018 17:56:11</publishTime>
+    </File>
+    <File Include="bin/PakProperty.dll">
+      <publishTime>10/23/2018 16:58:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/19/2015 09:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/19/2015 09:19:46</publishTime>
+    </File>
+    <File Include="Blog.aspx">
+      <publishTime>10/22/2018 01:11:26</publishTime>
+    </File>
+    <File Include="BlogDetails.aspx">
+      <publishTime>10/22/2018 01:11:25</publishTime>
+    </File>
+    <File Include="Blogs.ashx">
+      <publishTime>08/29/2018 22:07:13</publishTime>
+    </File>
+    <File Include="Contact-Us.aspx">
+      <publishTime>10/22/2018 01:11:26</publishTime>
+    </File>
+    <File Include="Contacts.ashx">
+      <publishTime>10/09/2018 18:23:32</publishTime>
+    </File>
+    <File Include="Customers.ashx">
+      <publishTime>09/14/2018 17:32:03</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>10/09/2018 18:38:03</publishTime>
+    </File>
+    <File Include="DeleteAdvertisement.aspx">
+      <publishTime>10/04/2018 20:06:58</publishTime>
+    </File>
+    <File Include="DeleteAgencies.aspx">
+      <publishTime>10/04/2018 19:47:28</publishTime>
+    </File>
+    <File Include="DeleteBlogs.aspx">
+      <publishTime>10/04/2018 20:11:20</publishTime>
+    </File>
+    <File Include="DeleteCustomers.aspx">
+      <publishTime>10/04/2018 20:13:11</publishTime>
+    </File>
+    <File Include="DeletePartner.aspx">
+      <publishTime>10/04/2018 20:03:31</publishTime>
+    </File>
+    <File Include="DeletePopupAdds.aspx">
+      <publishTime>10/04/2018 20:16:15</publishTime>
+    </File>
+    <File Include="DiamondAdd.aspx">
+      <publishTime>10/07/2018 19:28:19</publishTime>
+    </File>
+    <File Include="ExpAdds.ashx">
+      <publishTime>09/23/2018 02:34:19</publishTime>
+    </File>
+    <File Include="FeaturedPropertiesDetail.aspx">
+      <publishTime>09/27/2018 03:28:35</publishTime>
+    </File>
+    <File Include="forgetPass.aspx">
+      <publishTime>10/22/2018 01:11:25</publishTime>
+    </File>
+    <File Include="fp-1.jpg">
+      <publishTime>09/20/2018 02:52:43</publishTime>
+    </File>
+    <File Include="FreeAdd.aspx">
+      <publishTime>10/10/2018 23:15:41</publishTime>
+    </File>
+    <File Include="GoldAdd.aspx">
+      <publishTime>10/07/2018 19:28:46</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>10/23/2018 16:48:47</publishTime>
+    </File>
+    <File Include="IndividualDiamondAdd.aspx">
+      <publishTime>10/07/2018 19:29:14</publishTime>
+    </File>
+    <File Include="IndividualGoldAdd.aspx">
+      <publishTime>10/07/2018 19:29:42</publishTime>
+    </File>
+    <File Include="IndividualSms.aspx">
+      <publishTime>10/12/2018 19:32:21</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>10/22/2018 01:11:25</publishTime>
+    </File>
+    <File Include="LoginAdminPanel.aspx">
+      <publishTime>09/24/2018 01:54:52</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/27/2018 20:59:26</publishTime>
+    </File>
+    <File Include="Partners.ashx">
+      <publishTime>08/27/2018 18:33:12</publishTime>
+    </File>
+    <File Include="PasswordChange.aspx">
+      <publishTime>10/09/2018 18:08:24</publishTime>
+    </File>
+    <File Include="PopupAdds.ashx">
+      <publishTime>09/24/2018 21:09:05</publishTime>
+    </File>
+    <File Include="Properties.aspx">
+      <publishTime>10/22/2018 22:42:30</publishTime>
+    </File>
+    <File Include="Propertiess.aspx">
+      <publishTime>10/23/2018 02:02:19</publishTime>
+    </File>
+    <File Include="PropertyLocation.aspx">
+      <publishTime>10/22/2018 18:56:10</publishTime>
+    </File>
+    <File Include="SendAllSms.aspx">
+      <publishTime>10/12/2018 19:31:28</publishTime>
+    </File>
+    <File Include="Support.aspx">
+      <publishTime>10/23/2018 16:55:00</publishTime>
+    </File>
+    <File Include="Terms-Condition.aspx">
+      <publishTime>10/22/2018 01:11:25</publishTime>
+    </File>
+    <File Include="UpdateAdd.aspx">
+      <publishTime>10/04/2018 20:20:12</publishTime>
+    </File>
+    <File Include="UpdateAdvertisement.aspx">
+      <publishTime>10/04/2018 20:07:12</publishTime>
+    </File>
+    <File Include="UpdateAgencies.aspx">
+      <publishTime>10/04/2018 19:48:29</publishTime>
+    </File>
+    <File Include="UpdateBlogs.aspx">
+      <publishTime>10/04/2018 20:10:45</publishTime>
+    </File>
+    <File Include="UpdateCustomers.aspx">
+      <publishTime>10/04/2018 20:13:47</publishTime>
+    </File>
+    <File Include="UpdateFeaturedPropertiesAgent.aspx">
+      <publishTime>09/07/2018 19:46:24</publishTime>
+    </File>
+    <File Include="UpdateFeaturedPropertiesBasicInfo.aspx">
+      <publishTime>09/07/2018 01:31:05</publishTime>
+    </File>
+    <File Include="UpdateFeaturedPropertiesFeatures.aspx">
+      <publishTime>10/04/2018 19:53:08</publishTime>
+    </File>
+    <File Include="UpdateFeaturedPropertiesLocation.aspx">
+      <publishTime>10/04/2018 19:53:38</publishTime>
+    </File>
+    <File Include="UpdateFeaturedPropertiesOffice.aspx">
+      <publishTime>10/04/2018 19:54:01</publishTime>
+    </File>
+    <File Include="UpdateFeaturedPropertiesTypes.aspx">
+      <publishTime>10/04/2018 20:00:10</publishTime>
+    </File>
+    <File Include="UpdatePartner.aspx">
+      <publishTime>10/04/2018 20:02:40</publishTime>
+    </File>
+    <File Include="UpdatePopupAdds.aspx">
+      <publishTime>10/04/2018 20:16:24</publishTime>
+    </File>
+    <File Include="UpdateUsers.aspx">
+      <publishTime>10/04/2018 20:26:38</publishTime>
+    </File>
+    <File Include="Uploaa.aspx">
+      <publishTime>10/22/2018 17:14:11</publishTime>
+    </File>
+    <File Include="userDashboard.aspx">
+      <publishTime>10/07/2018 22:50:00</publishTime>
+    </File>
+    <File Include="userDiamondPackage.aspx">
+      <publishTime>10/04/2018 18:50:00</publishTime>
+    </File>
+    <File Include="userGoldPackage.aspx">
+      <publishTime>10/04/2018 18:50:21</publishTime>
+    </File>
+    <File Include="userIndividualPackage.aspx">
+      <publishTime>10/04/2018 18:50:43</publishTime>
+    </File>
+    <File Include="userRegister.aspx">
+      <publishTime>10/22/2018 01:11:25</publishTime>
+    </File>
+    <File Include="UsersData.ashx">
+      <publishTime>09/19/2018 23:51:16</publishTime>
+    </File>
+    <File Include="userUpdateAdd.aspx">
+      <publishTime>09/24/2018 20:41:53</publishTime>
+    </File>
+    <File Include="userUpdateInfo.aspx">
+      <publishTime>09/24/2018 19:43:30</publishTime>
+    </File>
+    <File Include="userUpdateLocation.aspx">
+      <publishTime>09/15/2018 21:12:07</publishTime>
+    </File>
+    <File Include="ViewAdvertisement.aspx">
+      <publishTime>10/04/2018 20:05:42</publishTime>
+    </File>
+    <File Include="viewAgencies.aspx">
+      <publishTime>10/04/2018 19:43:52</publishTime>
+    </File>
+    <File Include="ViewAllExpireAdds.aspx">
+      <publishTime>10/04/2018 20:21:22</publishTime>
+    </File>
+    <File Include="ViewAllPropertyAdds.aspx">
+      <publishTime>10/04/2018 20:17:39</publishTime>
+    </File>
+    <File Include="ViewBlogs.aspx">
+      <publishTime>10/04/2018 20:08:43</publishTime>
+    </File>
+    <File Include="ViewContact.aspx">
+      <publishTime>10/21/2018 16:01:00</publishTime>
+    </File>
+    <File Include="ViewCustomers.aspx">
+      <publishTime>10/04/2018 20:12:39</publishTime>
+    </File>
+    <File Include="ViewFeaturedProperties.aspx">
+      <publishTime>10/04/2018 19:51:36</publishTime>
+    </File>
+    <File Include="ViewFeaturedPropertiesAgents.aspx">
+      <publishTime>10/04/2018 19:57:19</publishTime>
+    </File>
+    <File Include="ViewFeaturedPropertiesType.aspx">
+      <publishTime>10/04/2018 19:59:36</publishTime>
+    </File>
+    <File Include="ViewPartners.aspx">
+      <publishTime>10/04/2018 20:01:39</publishTime>
+    </File>
+    <File Include="ViewPopup.aspx">
+      <publishTime>10/04/2018 20:14:48</publishTime>
+    </File>
+    <File Include="ViewUsers.aspx">
+      <publishTime>10/04/2018 20:23:11</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/07/2018 22:59:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
